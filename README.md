@@ -1,4 +1,16 @@
 # Final-Year-Project
-Welcome to my small final year project, the topic of my project is Non-intrusive Load Monitoring (NILM).
+Welcome to my small final year project, my project topic is **Non-intrusive Load Monitoring (NILM)**.
 
-The project is still updating...
+According to Jack Kelly's paper, NILM estimates appliance-by-appliance electricity consumption from a single meter that measures the whole home's electricity demand.
+
+## Latest update: 
+
+Upload seq2point.py
+
+## Next step: 
+
+1. Write comments and plot the figures.
+
+2. Learn traditional machine learning method such as Supported Vector Machine.
+
+3. Prepare the formal experiments and record the data.
