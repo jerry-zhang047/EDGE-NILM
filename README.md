@@ -5,7 +5,7 @@ According to Jack Kelly's paper, NILM estimates appliance-by-appliance electrici
 
 ## Latest update: 
 
-Upload seq2point.py
+Upload experiment.ipynb, which seperates the experiment with the algorithm
 
 ## Next step: 
 
