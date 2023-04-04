@@ -1,0 +1,24 @@
+name: nilmtk-env
+channels:
+  - conda-forge
+  - nilmtk
+  - pytorch
+dependencies:
+- python==3.8.13
+- numpy>=1.13.3,<1.20
+- pytables
+- pandas>=0.25.3,<1.0
+- matplotlib-base>=3.1.0,<3.2.0
+- networkx==2.1
+- scipy>=1.0.0
+- scikit-learn>=0.21.2
+- jupyterlab
+- nose
+- coverage
+- pip
+- coveralls
+- hmmlearn
+- nilm_metadata
+- pytorch=1.13.1=py3.8_cuda11.6_cudnn8_0
+- pip:
+	- torchsummary
