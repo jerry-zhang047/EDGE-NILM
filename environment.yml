@@ -21,4 +21,4 @@ dependencies:
 - nilm_metadata
 - pytorch=1.13.1=py3.8_cuda11.6_cudnn8_0
 - pip:
-	- torchsummary
+    - torchsummary
