@@ -11,6 +11,7 @@
     - If you use `conda`, you could run `conda create -f environment.yml` to install dependencies.
     - Then paste the entire `\nilmtk` folder under the directory of `nilmtk-env` environment, which is located at `\Anaconda3\envs\nilmtk-env\Lib\site-packages`.
     - x-cube-ai package does not support `PyTorch` models, so it is neccessary to convert into `TensorFlow Lite` models. [TinyNeuralNetwork](https://github.com/alibaba/TinyNeuralNetwork) is an easy-to-use deep learning framework conversion tool from PyTorch to TFLite. Follow the installation instructions to install the package in `nilmtk-env`.
+    - The dataset is [UK-DALE](https://ukerc.rl.ac.uk/DC/cgi-bin/edc_search.pl?GoButton=Detail&WantComp=41), download the file `ukdale.h5` in your directory. Notice to set correct relative path whenever you would like to conduct an experiment by API.
 
 ---
 
